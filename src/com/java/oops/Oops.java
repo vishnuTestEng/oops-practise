@@ -5,8 +5,12 @@ public class Oops {
 		System.out.println("EmpId=224");
 		
 	}
-	 public void emmpName() {
+	 public void empName() {
 		 System.out.println("EmpName=Vishnu");
+		
+	}
+	 public void empgender() {
+		 System.out.println("Empgender=F");
 		
 	}
 	
